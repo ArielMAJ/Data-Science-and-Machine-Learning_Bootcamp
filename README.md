@@ -17,5 +17,4 @@ Goes through "every" step of a ML problem:
 
 ## Section 03 - Python basics
 
-
-
+Starts on the very basics of python and rapidly goes through the necessary things to get you to a level where you can understand Section 02. This was in case you didn't already know much Python at all and wasn't already able to follow what was happening in the last section. This is skippable content.
