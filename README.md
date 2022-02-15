@@ -21,4 +21,4 @@ Starts on the very basics of python and rapidly goes through the necessary thing
 
 ## Section 04 - Optimization and Gradient Descent
 
-Introduces more Python programming concepts, explains what is optimization and how and teaches the gradient descent algorithm. These are the first building blocks to understanding data science.
+Introduces more Python programming concepts, explains what is optimization and teaches the gradient descent algorithm. These are "the first building blocks to understanding data science".
